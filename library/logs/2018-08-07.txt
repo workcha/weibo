@@ -1,0 +1,15 @@
+Time : 03:26:25
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select status from mr_collect where user_id = :user_id and post_id = :pid
+
+Time : 03:23:14
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select status from mr_collect where user_id = :user_id and post_id = :pid
+
+Time : 03:20:00
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select status from mr_collect where user_id = :user_id and post_id = :pid
+
+Time : 03:19:16
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : select status from mr_collect where user_id = :user_id and post_id = :pid

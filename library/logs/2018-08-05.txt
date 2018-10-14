@@ -1,0 +1,75 @@
+Time : 17:39:22
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:39:21
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:39:20
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:39:19
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:39:16
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:39:14
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:39:13
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:39:12
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:39:11
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:39:10
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:38:14
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:38:13
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:38:12
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:38:11
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:38:10
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:38:09
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:38:05
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:38:03
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
+
+Time : 17:38:02
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weibo.me_usr' doesn't exist
+Raw SQL : select * from me_usr where username = :username and password = :password
